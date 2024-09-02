@@ -4,7 +4,7 @@
 
 Simple system daemon for D-Link DNS-320L
 
-(c) 2013 Andreas Boehler, andreas _AT_ aboehler.at
+(c) 2013-2024 Andreas Boehler, dev _AT_ aboehler.at
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
